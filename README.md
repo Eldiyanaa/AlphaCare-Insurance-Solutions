@@ -54,7 +54,7 @@ Each task is tracked with version control using Git, and branches are created fo
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/repository-name.git
+git clone git@github.com:Eldiyanaa/AlphaCare-Insurance-Solutions.git
 ```
 2. Set up a virtual environment and install dependencies:
 
